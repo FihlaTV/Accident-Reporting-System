@@ -9,7 +9,7 @@ def email(parameter_list):
 	lon = parameter_list[5]
  	geoLocation = map_location.mapLocation(lat,lon)
  	location = str(geoLocation)
-	sender = 'csl343reportingagency@gmail.com'
+	sender = 'csl343reportingaXXX@gmail.com'
 	recipient = parameter_list[3]
 	subject = 'Emergency Report'
 	link = "https://maps.google.co.in/?q="+lat+","+lon
@@ -29,7 +29,7 @@ def email(parameter_list):
 	session.ehlo()
 	session.starttls()
 	session.ehlo
-	session.login(sender, "kanaudsingh")
+	session.login(sender, "kanaud")
 	 
 	session.sendmail(sender, recipient, headers + "\r\n\r\n" + body)
 	print "Done"
