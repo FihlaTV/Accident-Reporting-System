@@ -1,11 +1,15 @@
 Accident-Reporting-System
 =========================
 Group Members:
-Arjun Sunel - 2010CS1009
-Abhimanyu Niroola - 2010CS1087
-Abhishek Kumar - 2010CS1003
-Manjeet Singh - 2010CS1023
-Santosh Reddy - 2010CS1024
+Arjun Sunel 
+
+Abhimanyu Niroola 
+
+Abhishek Kumar 
+
+Manjeet Singh 
+
+Santosh Reddy 
  
 Project Goal: To develop an android application for reporting a vehicular accident to the concerned authorities/family members of the victims while keeping the anonymity of the informer.
  
